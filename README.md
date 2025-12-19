@@ -50,7 +50,7 @@ python "Guess-a -number.py"
 ## Dependencies
 - Pillow
 
-## TEAM MEMBERS 
+## Team Members 
 group 13 — Vinay, Tushar, Vivek, Shubank, Suhas
 
 ## contacts
