@@ -1,4 +1,4 @@
-# Number Guess Game 🎯
+# Number Guess Game 
 
 A fullscreen Python Tkinter Number Guessing Game with multiple difficulty levels, image-based UI, and persistent high-score storage.
 
@@ -50,7 +50,7 @@ python "Guess-a -number.py"
 ## Dependencies
 - Pillow
 
-## Authors
+## TEAM MEMBERS 
 group 13 — Vinay, Tushar, Vivek, Shubank, Suhas
 
 ## contacts
